@@ -1,4 +1,4 @@
-so for now this is my complete code and complete project, now edit this template for making a research paper on this complete project very elaborately give proper outputs for each section one by one because it will have to be at least for 10 pages of research paper and 
+
 \documentclass[conference]{IEEEtran}
 \IEEEoverridecommandlockouts
 % The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
